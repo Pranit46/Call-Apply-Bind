@@ -22,7 +22,7 @@ printFullName.call(Name2, "Pune", "Maharashtra")
 
 /* 2) Use of Apply Method 
         The only difference between call and apply method is the way of passing the second arguments.
-        In call method we are passing it individually and 
+        In call method we are passing it individually and in appy method we are passing it through array list. 
 */
 
 printFullName.apply(Name2, ["Pune", "Maharashtra"])
